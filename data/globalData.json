@@ -1,7 +1,7 @@
 {
   "enable_development_mode": false,
-  "company_name": "Bovenizer and Baker Orthodontics",
-  "domain": "www.bovbakerortho.com",
+  "company_name": "Bovenizer & Baker Orthodontics",
+  "domain": "bovbakerortho.com",
   "email": "frontdesk@bovbakerortho.com",
   "phone": {
     "number": "919-234-5593",
@@ -10,14 +10,14 @@
   },
   "location": [
     {
-      "title": "",
+      "title": "Cary",
       "address": {
-        "street": "2625 Green Level W Rd.",
+        "street": "2625 Green Level West Rd.",
         "suite": "",
         "city_state": "Cary, NC 27519",
         "coordinates": {
-          "longitude": "",
-          "latitude": ""
+          "longitude": "-78.8729859",
+          "latitude": "35.7870786"
         }
       },
       "phone": {
@@ -28,34 +28,30 @@
       "hours": [
         {
           "day": "Mon",
-          "time": "8:00 AM \u000211 5:00 PM"
+          "time": "8:00 AM \u000163 5:00 PM"
         },
         {
           "day": "Tues",
-          "time": "8:00 AM \u000211 5:00 PM"
+          "time": "8:00 AM \u000163 5:00 PM"
         },
         {
           "day": "Wed",
-          "time": "8:00 AM \u000211 5:00 PM"
+          "time": "8:00 AM \u000163 5:00 PM"
         },
         {
-          "day": "Thur",
-          "time": "7:30 AM \u000211 3:30 PM"
+          "day": "Thu",
+          "time": "7:30 AM \u000163 3:30 PM"
         },
         {
           "day": "Fri",
-          "time": "7:30 AM \u000211 12:00 PM"
-        },
-        {
-          "day": "Sat - Sun",
-          "time": "Closed"
+          "time": "7:30 AM \u000163 12:00 PM"
         }
       ],
       "directions_link": {
-        "href": "https://maps.google.com/maps/dir//Bovenizer+and+Baker+Orthodontics+2625+Green+Level+W+Rd+Cary,+NC+27519/@35.7870659,-78.8730536,16z/data=!4m5!4m4!1m0!1m2!1m1!1s0x89aceda7e9eeaf19:0x4bc3d4bf8ef4a247",
+        "href": "https://www.google.com/maps/search/?api=1&query=2625+Green+Level+West+Rd,+Cary,+NC+27519",
         "label": "Get Directions"
       },
-      "special_note": "Languages: English, Spanish and German"
+      "special_note": ""
     }
   ],
   "typography": [
@@ -69,34 +65,34 @@
     }
   ],
   "top_bar": {
-    "enable_top_bar": true,
+    "enable_top_bar": false,
     "type": "links",
     "theme": "dark",
     "content_alignment": "right",
     "links": [
       {
         "icon": "tooth-two-v2",
-        "text": "2625 Green Level W Rd., Cary, NC 27519",
-        "href": "https://maps.google.com/maps/dir//Bovenizer+and+Baker+Orthodontics+2625+Green+Level+W+Rd+Cary,+NC+27519/@35.7870659,-78.8730536,16z/data=!4m5!4m4!1m0!1m2!1m1!1s0x89aceda7e9eeaf19:0x4bc3d4bf8ef4a247",
-        "label": "View 2625 Green Level W Rd., Cary, NC 27519 on Google Maps",
+        "text": "2625 Green Level West Rd, Cary, NC 27519",
+        "href": "https://www.google.com/maps/search/?api=1&query=2625+Green+Level+West+Rd,+Cary,+NC+27519",
+        "label": "View 2625 Green Level West Rd, Cary, NC 27519 on Google Maps",
         "new_window": true
       },
       {
         "icon": "phone",
-        "text": "919-234-5593",
+        "text": "(919) 234-5593",
         "href": "tel:+19192345593",
-        "label": "Call 9 1 9. 2 3 4. 5 5 9 3.",
+        "label": "Call (919) 234-5593",
         "new_window": false
       }
     ],
     "announcement": {
-      "icon": "tooth-two-v2",
-      "label": "Patient Update",
-      "text": "We are accepting new patients and offer complimentary consultations. Schedule online or submit a virtual consult.",
-      "mobile_text": "Now accepting new patients",
+      "icon": "phone",
+      "label": "Schedule Your Free Consultation",
+      "text": "Call or text (919) 234-5593 or schedule a free consultation online. Our team is happy to answer questions and guide you through next steps.",
+      "mobile_text": "Schedule Consultation",
       "modal": {
-        "title": "Welcome",
-        "text": "<p>Schedule a complimentary consultation and receive x-rays, photos, an exam, a custom treatment plan, and a financial quote with insurance verification.</p>"
+        "title": "Schedule Your Free Consultation",
+        "text": "We offer a complimentary new patient exam that includes x-rays, photos, and a personalized treatment plan. Call or text (919) 234-5593 or schedule online and our scheduling team will assist you."
       }
     }
   },
@@ -105,39 +101,54 @@
     "buttons": [
       {
         "button": {
-          "type": "nuxt",
+          "type": "openchair",
           "style": "primary",
-          "label": "Schedule Your Consultation",
-          "aria_label": "Schedule your complimentary consultation",
-          "href": "",
-          "path": "/schedule-a-free-consult/",
+          "label": "Schedule Consultation",
+          "aria_label": "Schedule a consultation",
+          "href": "https://edgebooking.ortho2.com/search?catalog=8c03a8a7-d345-45ab-9c6d-494158568a6d&code=wddrid&cellrequired=true",
+          "path": "",
           "hash": "",
           "external": true,
-          "include_icon": false,
-          "icon": "phone",
-          "color": "black"
+          "include_icon": true,
+          "icon": "tooth-two-v2",
+          "color": "primary"
         }
       }
     ],
-    "floating": true
+    "floating": false
+  },
+  "primary_cta": {
+    "label": "Schedule Consultation",
+    "path": "/contact",
+    "hash": "#form",
+    "external": false,
+    "href": ""
   },
   "footer": {
     "social_media": [
       {
-        "href": "https://search.google.com/local/reviews?placeid=ChIJGa_u6aftrIkRR6L0jr_Uw0s&q=Bovenizer+and+Baker+Orthodontics&hl=en&gl=US",
-        "icon": "google"
+        "href": "https://www.facebook.com/bovbakerortho",
+        "icon": "facebook"
+      },
+      {
+        "href": "https://www.instagram.com/bovbakerortho/",
+        "icon": "instagram"
+      },
+      {
+        "href": "https://www.youtube.com/c/BovenizerandBakerOrthodontics",
+        "icon": "youtube"
       }
     ],
     "add_border": false
   },
   "enable_popup": false,
   "popup": {
-    "title": "Let's Get Started",
-    "text": "Schedule a complimentary consultation with Dr. Bo, Dr. Baker or Dr. Keri. We include x-rays, photos, an exam, a custom treatment plan, and a financial estimate.",
+    "title": "Welcome to Bovenizer & Baker Orthodontics",
+    "text": "",
     "image": {
-      "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/06/BoBaker3.26-54-1-scaled.jpg",
+      "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/06/BoBaker3.26-24-scaled.jpg",
       "webp": "",
-      "alt": "Bovenizer and Baker Orthodontics team photo",
+      "alt": "Bovenizer & Baker Orthodontics team",
       "aria_hidden": false,
       "bgColor": "",
       "imageBackground": false,
@@ -146,7 +157,7 @@
       "forceAlt": "",
       "loading_mask": "",
       "image_selection_hints": {
-        "context_category": "New Patients Hero"
+        "context_category": "Contact Hero"
       }
     }
   }
