@@ -2,13 +2,13 @@
   "Home": [
     {
       "acf_fc_layout": "hero",
-      "title": "Your Path to a Better Smile",
+      "title": "Bovenizer & Baker Orthodontics",
       "text": "",
       "button": {
         "type": "nuxt",
         "style": "primary",
-        "label": "Schedule Your Consultation",
-        "aria_label": "Schedule your consultation",
+        "label": "Schedule Consultation",
+        "aria_label": "Schedule a consultation",
         "href": "",
         "path": "/contact",
         "hash": "#form",
@@ -19,9 +19,9 @@
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/96012689_happy_male_dentist_at_dental_clinic_office.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/96012689_happy_male_dentist_at_dental_clinic_office.webp",
-        "alt": "Drs and team photo at Bovenizer & Baker Orthodontics",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/258870461_Happy_girl_and_her_dad_during_a_dental_appointment.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/258870461_Happy_girl_and_her_dad_during_a_dental_appointment.webp",
+        "alt": "Smiling patients at Bovenizer & Baker Orthodontics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -42,13 +42,10 @@
     },
     {
       "acf_fc_layout": "block_text_fh",
-      "title": "Let's Get Started",
+      "title": "Welcome to Bovenizer & Baker Orthodontics",
       "paragraphs": [
         {
-          "text": "At your complimentary new-patient consultation you’ll receive x-rays, photos, and a thorough oral exam by Dr. Bo, Dr. Baker, or Dr. Keri. We’ll build a custom treatment plan with clear options and a timeframe, verify your insurance, and provide a financial quote so you know what to expect."
-        },
-        {
-          "text": "Schedule online or submit a virtual consult — no appointment required. Schedule a Free Consultation: https://www.bovbakerortho.com/schedule-a-free-consult/ | Email: frontdesk@bovbakerortho.com | Call: 919-234-5593"
+          "text": "Bovenizer & Baker Orthodontics is a top-rated, community-rooted orthodontic practice serving Cary, Apex and Morrisville. We combine a down-to-earth patient experience with advanced technology (iTero 3D scanning, iCAT 3D x‑rays and in‑house 3D printing) and conservative, individualized treatment planning. Our doctors focus on predictable, board-quality results while making treatment fun and accessible for the whole family."
         }
       ],
       "component_options": {
@@ -62,15 +59,15 @@
     },
     {
       "acf_fc_layout": "multi_item_row",
-      "title": "What Makes Us Different",
+      "title": "Why Choose Us",
       "items": [
         {
           "title": "Community Focus",
-          "icon": "tooth-two-v1",
+          "icon": "people",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/618789213_children_hands_in_colors_Summer_photo_Selective_fo.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/618789213_children_hands_in_colors_Summer_photo_Selective_fo.webp",
-            "alt": "2020 Diamond Award",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/265652617_People_Donating_Food_To_Charity_Food_Bank_Collecti.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/265652617_People_Donating_Food_To_Charity_Food_Bank_Collecti.webp",
+            "alt": "Community involvement and local sponsorships",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -82,7 +79,7 @@
               "context_category": "Community"
             }
           },
-          "text": "We’re rooted in Cary, Apex and Morrisville and give back locally through events, school partnerships, and community programs.",
+          "text": "We’re embedded in the Cary/Apex/Morrisville communities and give back through local sponsorships and our “A Chance to Smile” program.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -95,11 +92,11 @@
         },
         {
           "title": "Advanced Technology",
-          "icon": "tooth-check",
+          "icon": "laptop-tooth",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/105701609_interior_of_new_modern_dental_clinic_office.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/105701609_interior_of_new_modern_dental_clinic_office.webp",
-            "alt": "Digital scanner and aligner technology",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/271991695_Young_woman_ready_to_computer_3d_tomography_of_tee.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/271991695_Young_woman_ready_to_computer_3d_tomography_of_tee.webp",
+            "alt": "Digital scanning and advanced orthodontic technology",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -108,10 +105,10 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "Modern Equipment"
+              "context_category": "Advanced Technology"
             }
           },
-          "text": "We use iTero 3D scanning, 3D-printed retainers, and low-dose 3D x-rays to plan efficient, comfortable care.",
+          "text": "iTero digital scanning, iCAT 3D imaging, 3D printing for retainers, and Damon/Invisalign<sup>®</sup> expertise deliver faster, more accurate, and more comfortable care.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -123,41 +120,12 @@
           }
         },
         {
-          "title": "Conservative Treatment",
-          "icon": "tooth-outline",
+          "title": "Patient‑first Care",
+          "icon": "safety-tooth",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/181602708_Happy_smile_of_young_woman_with_dental_braces.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/181602708_Happy_smile_of_young_woman_with_dental_braces.webp",
-            "alt": "Orthodontic braces consultation",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "All Ages"
-            }
-          },
-          "text": "We favor conservative timing for pediatric starts, letting natural growth guide treatment when appropriate.",
-          "add_button": false,
-          "button": {
-            "button_type": "button",
-            "path": "",
-            "hash": "",
-            "href": "",
-            "label": "",
-            "aria": ""
-          }
-        },
-        {
-          "title": "Patient Perks & Support",
-          "icon": "tooth-stars",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/158720629_Dentist_female_posing_at_consultation.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/158720629_Dentist_female_posing_at_consultation.webp",
-            "alt": "Team and patient perks",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/16042402_opened_mouth_and_dentists_hands_with_instruments.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/16042402_opened_mouth_and_dentists_hands_with_instruments.webp",
+            "alt": "Personalized, conservative treatment planning",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -169,7 +137,7 @@
               "context_category": "Better Care"
             }
           },
-          "text": "Fresh-baked cookies, a coffee bar, the Patient Rewards Hub, and a warm, family-centered team make visits pleasant for all ages.",
+          "text": "We emphasize appropriate timing and individualized plans, choosing observation when appropriate and starting treatment only when a patient is ready.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -200,7 +168,7 @@
         "component_margins": "none",
         "hide_component": false
       },
-      "media_type": "image",
+      "media_type": "icon",
       "linear_gradient": "",
       "add_cta": false,
       "left_aligned": false,
@@ -209,19 +177,19 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Meet Your Smile Architects",
+      "title": "Meet Dr. Todd Bovenizer",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "You've found a down-to-earth orthodontic office. Get to know your favorite trio of docs — friendly, experienced clinicians who make care personal and easy to understand."
+          "text": "Dr. Todd Bovenizer is a board‑certified orthodontist with DDS and MS degrees and extensive leadership in the specialty. He holds ABO certification (including re‑certification), has served as president of state orthodontic groups, and lectures nationally on the Damon system. Dr. Bo brings a family-first approach to care and leads clinical excellence across the practice."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/191531294_Medical_dentist_team_in_dental_office_discuss_abou.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/191531294_Medical_dentist_team_in_dental_office_discuss_abou.webp",
-        "alt": "Dr. Bo headshot",
+        "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/11/Dr.-Todd-Bovenizer.jpg",
+        "webp": "https://www.bovbakerortho.com/wp-content/uploads/2025/11/Dr.-Todd-Bovenizer.jpg",
+        "alt": "Dr. Todd Bovenizer",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -234,7 +202,7 @@
         }
       },
       "video": {
-        "type": "file",
+        "type": "embedded",
         "src": ""
       },
       "buttons": [
@@ -242,12 +210,12 @@
           "button": {
             "type": "nuxt",
             "style": "secondary",
-            "label": "Meet Your Smile Architects",
-            "aria_label": "Meet our doctors",
+            "label": "Meet Our Team",
+            "aria_label": "Learn about our team",
             "href": "",
             "path": "/about",
-            "hash": "",
-            "external": true,
+            "hash": "#meet-your-smile-architects",
+            "external": false,
             "include_icon": false,
             "icon": "pencil",
             "color": "black"
@@ -272,14 +240,151 @@
       "add_texture": false,
       "large_title": true,
       "title_color": "text",
-      "title_underline_color": "primary"
+      "title_underline_color": "primary",
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Meet Dr. Christopher Baker",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Dr. Christopher Baker is a board‑certified orthodontist trained in Damon and Invisalign techniques. Raised around orthodontics, he brings both technical skill and a patient-centered approach to care. Dr. Baker and his family are active in the community and committed to thoughtful, modern treatment plans."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/11/Dr.-Chris-Baker.jpg",
+        "webp": "https://www.bovbakerortho.com/wp-content/uploads/2025/11/Dr.-Chris-Baker.jpg",
+        "alt": "Dr. Christopher Baker",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Experienced"
+        }
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [
+        {
+          "button": {
+            "type": "nuxt",
+            "style": "secondary",
+            "label": "Meet Our Team",
+            "aria_label": "Learn about our team",
+            "href": "",
+            "path": "/about",
+            "hash": "#meet-your-smile-architects",
+            "external": false,
+            "include_icon": false,
+            "icon": "pencil",
+            "color": "black"
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": true,
+      "has_buttons": true,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": true,
+      "title_color": "text",
+      "title_underline_color": "primary",
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Meet Dr. Tonya Spangler",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Dr. Tonya Spangler brings a thoughtful clinical background and strong academic credentials to the team. She completed dental and orthodontic training at Virginia Commonwealth University, has published research, and enjoys helping patients achieve confident, healthy smiles through personalized treatment."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/11/DrSpangler500x500.jpg",
+        "webp": "https://www.bovbakerortho.com/wp-content/uploads/2025/11/DrSpangler500x500.jpg",
+        "alt": "Dr. Tonya Spangler",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Experienced"
+        }
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [
+        {
+          "button": {
+            "type": "nuxt",
+            "style": "secondary",
+            "label": "Meet Our Team",
+            "aria_label": "Learn about our team",
+            "href": "",
+            "path": "/about",
+            "hash": "#meet-your-smile-architects",
+            "external": false,
+            "include_icon": false,
+            "icon": "pencil",
+            "color": "black"
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": false,
+      "has_buttons": true,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": true,
+      "title_color": "text",
+      "title_underline_color": "primary",
+      "preserve_image": true
     },
     {
       "acf_fc_layout": "block_masonary_grid",
       "title": "Explore Our Treatments",
       "paragraphs": [
         {
-          "text": "From discreet clear aligners to efficient Damon bracket systems, we offer tailored options for children, teens, and adults."
+          "text": "We offer Damon braces, Invisalign<sup>®</sup>, Spark-style aligners, retainers, and early interceptive care using digital planning and 3D-guided workflows to create efficient, comfortable treatment."
         }
       ],
       "button": {
@@ -290,7 +395,7 @@
         "href": "",
         "path": "/treatments",
         "hash": "",
-        "external": true,
+        "external": false,
         "include_icon": false,
         "icon": "pencil",
         "color": "black"
@@ -302,7 +407,7 @@
           "image": {
             "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/127410354_Invisible_aligners_plastic_braces_dentistry.jpg",
             "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/127410354_Invisible_aligners_plastic_braces_dentistry.webp",
-            "alt": "Clear aligners close-up",
+            "alt": "Invisalign clear aligners",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -314,15 +419,15 @@
               "context_category": "Treatments Hero"
             }
           },
-          "title": "Invisalign",
+          "title": "Invisalign<sup>®</sup>",
           "path": "/treatments",
           "hash": "#invisalign"
         },
         {
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/48486569_teeth_with_braces.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/48486569_teeth_with_braces.webp",
-            "alt": "Metal braces treatment",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646541_Healthy_smile_woman_with_clear_brackets.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646541_Healthy_smile_woman_with_clear_brackets.webp",
+            "alt": "Damon braces system",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -334,15 +439,15 @@
               "context_category": "Treatments Hero"
             }
           },
-          "title": "Damon Metal Braces",
+          "title": "Damon Braces",
           "path": "/treatments",
-          "hash": "#damon-metal-braces"
+          "hash": "#damon-braces"
         },
         {
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/135513818_Clear_braces_-_invisible_brackets_for_teeth_straig.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/135513818_Clear_braces_-_invisible_brackets_for_teeth_straig.webp",
-            "alt": "Clear braces or clear bracket option",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/343321244_Young_beautiful_brunette_woman_holding_dental_alig.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/343321244_Young_beautiful_brunette_woman_holding_dental_alig.webp",
+            "alt": "Spark-style clear aligners",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -354,15 +459,15 @@
               "context_category": "Treatments Hero"
             }
           },
-          "title": "Damon Clear Braces",
+          "title": "Spark Aligners",
           "path": "/treatments",
-          "hash": "#damon-clear-braces"
+          "hash": "#spark"
         },
         {
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/192367510_Invisible_dental_orthodontics.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/192367510_Invisible_dental_orthodontics.webp",
-            "alt": "3D-printed retainer",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/56159139_hands_holding_retainer_for_teeth_and_tooth_tray.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/56159139_hands_holding_retainer_for_teeth_and_tooth_tray.webp",
+            "alt": "Retainers and retention care",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -371,12 +476,12 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "Retainers"
+              "context_category": "Retention"
             }
           },
-          "title": "Retainers & Finishing",
+          "title": "Retainers",
           "path": "/treatments",
-          "hash": "#retainers-finishing"
+          "hash": "#retainers"
         }
       ],
       "component_options": {
@@ -391,25 +496,40 @@
     {
       "acf_fc_layout": "multi_item_testimonial",
       "title": "What Our Patients Are Saying",
-      "review_text": "View Our 375+ 5‑Star Reviews",
+      "review_text": "Read More Reviews",
       "links": [
         {
           "href": "https://search.google.com/local/reviews?placeid=ChIJGa_u6aftrIkRR6L0jr_Uw0s",
-          "icon": "google"
+          "icon": "yelp",
+          "color": "primary"
+        },
+        {
+          "href": "https://search.google.com/local/reviews?placeid=ChIJGa_u6aftrIkRR6L0jr_Uw0s",
+          "icon": "facebook",
+          "color": "primary"
+        },
+        {
+          "href": "https://search.google.com/local/reviews?placeid=ChIJGa_u6aftrIkRR6L0jr_Uw0s",
+          "icon": "twitter",
+          "color": "primary"
         }
       ],
       "testimonials": [
         {
-          "author": "Client Name",
-          "testimonial": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
+          "author": "Karen R.",
+          "testimonial": "“Very pleased with Bovenizer & Baker Orthodontics, the staff are very friendly and professional, they made the whole getting braces experience very comfortable for my son and put me at ease.”"
         },
         {
-          "author": "Client Name",
-          "testimonial": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
+          "author": "William B.",
+          "testimonial": "“Dr. Bo is a great person and does amazing work. My daughter always looks forward to her visits and the final results when her braces were removed were spectacular.”"
         },
         {
-          "author": "Client Name",
-          "testimonial": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
+          "author": "Grace B.",
+          "testimonial": "“I have had my braces for over a month now, and they are working great! I can already see the difference in my smile and my teeth!”"
+        },
+        {
+          "author": "Briana L.",
+          "testimonial": "“Bovenizer & Baker Orthodontics is a friendly environment full of great smiles. The staff works hard to make sure everyone's teeth are great in the end.”"
         }
       ],
       "component_options": {
@@ -419,18 +539,22 @@
         "hide_component": false
       },
       "has_background": true,
-      "background": "bg1",
+      "background": "bg2",
       "linear_gradient": ""
     },
     {
       "acf_fc_layout": "multi_use_banner",
-      "title": "Follow Us for Updates",
+      "title": "Follow Us",
       "content_block": "social_block",
       "text": "",
       "social_links": [
         {
+          "href": "https://www.youtube.com/channel/UCHfpB5IIjyF1X2w_sYAO96Q",
+          "icon": "youtube"
+        },
+        {
           "href": "https://search.google.com/local/reviews?placeid=ChIJGa_u6aftrIkRR6L0jr_Uw0s",
-          "icon": "google"
+          "icon": "yelp"
         }
       ],
       "email": "",
@@ -460,7 +584,7 @@
       "image": {
         "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/218715428_unity_of_paper_human_symbol.jpg",
         "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/218715428_unity_of_paper_human_symbol.webp",
-        "alt": "Award icon",
+        "alt": "Follow Bovenizer & Baker Orthodontics on social media",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -479,7 +603,7 @@
     },
     {
       "acf_fc_layout": "multi_use_banner",
-      "title": "Ready to Start Your Smile?",
+      "title": "Schedule Consultation",
       "content_block": "text_block",
       "text": "",
       "social_links": [],
@@ -487,8 +611,8 @@
       "button": {
         "type": "nuxt",
         "style": "primary",
-        "label": "Schedule Your Consultation",
-        "aria_label": "Schedule your consultation",
+        "label": "Schedule Consultation",
+        "aria_label": "Schedule a consultation",
         "href": "",
         "path": "/contact",
         "hash": "#form",
@@ -508,9 +632,9 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/99326519_Professional_dentist_office.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/99326519_Professional_dentist_office.webp",
-        "alt": "Schedule CTA image - office interior and team",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/158720629_Dentist_female_posing_at_consultation.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/158720629_Dentist_female_posing_at_consultation.webp",
+        "alt": "Schedule your consultation with Bovenizer & Baker Orthodontics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -530,14 +654,14 @@
     {
       "seo": {
         "page_title": "Home - Bovenizer & Baker Orthodontics",
-        "page_description": "Bovenizer & Baker Orthodontics in Cary, NC offers complimentary new-patient consultations, Invisalign, Damon braces, 3D scanning, and convenient scheduling.",
-        "page_keywords": "orthodontics, Invisalign, Damon braces, Cary, new patient, orthodontist",
+        "page_description": "Bovenizer & Baker Orthodontics in Cary offers family-centered care with Damon braces, Invisalign®, Spark aligners, retainers, and 3D-guided treatment.",
+        "page_keywords": "orthodontics, Cary, Invisalign, Damon braces, Spark aligners, retainers, orthodontist",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "Home - Bovenizer & Baker Orthodontics",
-            "description": "Bovenizer & Baker Orthodontics in Cary, NC offers complimentary new-patient consultations, Invisalign, Damon braces, 3D scanning, and convenient scheduling.",
-            "image": "https://www.bovbakerortho.com/wp-content/uploads/2025/06/BoBaker3.26-54-1-scaled.jpg"
+            "title": "Bovenizer & Baker Orthodontics",
+            "description": "Advanced, family-focused orthodontics in Cary: Damon, Invisalign®, Spark aligners, retainers, and modern 3D workflows.",
+            "image": "https://www.bovbakerortho.com/wp-content/uploads/2025/11/Dr.-Todd-Bovenizer.jpg"
           }
         }
       }
@@ -549,23 +673,23 @@
       "title": "About Us",
       "text": "",
       "button": {
-        "type": "custom",
+        "type": "nuxt",
         "style": "primary",
-        "label": "",
-        "aria_label": "",
+        "label": "Schedule Consultation",
+        "aria_label": "Schedule a consultation",
         "href": "",
-        "path": "",
-        "hash": "",
+        "path": "/contact",
+        "hash": "#form",
         "external": false,
         "include_icon": false,
         "icon": "pencil",
-        "color": "black"
+        "color": "primary"
       },
       "media_type": "image",
       "image": {
         "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/149317615_Group_of_four_dentist_working_together_in_dental_o.jpg",
         "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/149317615_Group_of_four_dentist_working_together_in_dental_o.webp",
-        "alt": "Drs. Bovenizer & Baker group photo",
+        "alt": "Drs. Bovenizer and Baker smiling together at Bovenizer & Baker Orthodontics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -584,19 +708,16 @@
     },
     {
       "acf_fc_layout": "block_text_simple",
-      "title": "Our Mission",
+      "title": "Our manifesto impacts every aspect of our practice.",
       "paragraphs": [
         {
-          "text": "You’ve found a down-to-earth orthodontic office. We create a patient experience built on listening closely, treating families with warmth, and delivering clear, practical care plans."
+          "text": "We give you a reason to smile by focusing on an exceptional patient experience, precise clinical care, and a team that treats you like family."
         },
         {
-          "text": "Our manifesto shapes everything we do: fun brings smiles, the little details matter, and quality is everything. We hire passionate people who love their work and build a family spirit so every patient feels welcome."
+          "text": "Our approach favors conservative timing when appropriate, attention to microaesthetics, and finishing techniques that produce confident, lasting results."
         },
         {
-          "text": "We offer modern treatment options and customize care to each person’s lifestyle, including Damon braces and Invisalign<sup>®</sup> when appropriate. Our goal is a comfortable, efficient process that fits your life."
-        },
-        {
-          "text": "Rooted in Cary and nearby communities, we give back locally, provide flexible scheduling, and focus on making orthodontics accessible so patients leave confident and ready to share their smiles."
+          "text": "We use state-of-the-art tools such as Damon self-ligating brackets, iTero® 3D scanning, and iCAT® 3D imaging to plan efficient, comfortable treatment."
         }
       ],
       "component_options": {
@@ -614,12 +735,12 @@
     },
     {
       "acf_fc_layout": "tabs",
-      "title": "Meet Your Smile Architects",
+      "title": "Meet Dr. Todd Bovenizer",
       "paragraphs": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/128979149_Portrait_of_female_dentist_Shes_standing_in_her_de.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/128979149_Portrait_of_female_dentist_Shes_standing_in_her_de.webp",
-        "alt": "Dr. Bo headshot / portrait",
+        "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/11/Dr.-Todd-Bovenizer.jpg",
+        "webp": "",
+        "alt": "Dr. Todd Bovenizer headshot",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -633,16 +754,16 @@
       "buttons": [],
       "tabs": [
         {
-          "header": "Dr. Bo",
+          "header": "Professional",
           "paragraphs": [
             {
-              "text": "Dr. Bo performs the new patient exam, reviews x-rays and photos, and produces a personalized treatment plan with a clear financial quote at the complimentary consultation."
+              "text": "Dr. Todd Bovenizer is a board-certified orthodontist who brings decades of clinical leadership to the practice. He has lectured nationally on Damon System techniques and mentors other clinicians through the Damon Mentor Program. Dr. Bovenizer is known for careful biomechanics and a patient-first approach."
             }
           ],
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/211023264_Portrait_Of_Smiling_Male_And_Female_Dentists_At_Cl.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/211023264_Portrait_Of_Smiling_Male_And_Female_Dentists_At_Cl.webp",
-            "alt": "Dr. Bo headshot / portrait",
+            "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/11/Dr.-Todd-Bovenizer.jpg",
+            "webp": "",
+            "alt": "Dr. Todd Bovenizer smiling in the office",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -654,16 +775,19 @@
           }
         },
         {
-          "header": "Dr. Baker",
+          "header": "Education & Credentials",
           "paragraphs": [
             {
-              "text": "Dr. Baker joins the clinical exams and custom treatment planning. She’s available at the free consultation to review options, from Damon braces to Invisalign<sup>®</sup>, and to discuss the financial estimate."
+              "text": "Education: BS in Biology from Virginia Tech; Doctor of Dental Surgery and Master’s in Orthodontics from West Virginia (orthodontic specialty)."
+            },
+            {
+              "text": "Credentials: Board certified by the American Board of Orthodontics (re-certified); Past President, North Carolina Association of Orthodontists; member of the American Association of Orthodontists and the Southern Association of Orthodontists."
             }
           ],
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/120812592_Young_doctor_and_nurse_assistant_-_Medical_student.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/120812592_Young_doctor_and_nurse_assistant_-_Medical_student.webp",
-            "alt": "Dr. Baker portrait",
+            "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/11/Dr.-Todd-Bovenizer.jpg",
+            "webp": "",
+            "alt": "Dr. Todd Bovenizer in the treatment room",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -675,16 +799,16 @@
           }
         },
         {
-          "header": "Dr. Keri",
+          "header": "Specialties & Interests",
           "paragraphs": [
             {
-              "text": "Dr. Keri is an integral part of the clinical team, providing new patient exams, shaping treatment plans, and supporting ongoing care throughout treatment."
+              "text": "Specialties include the Damon System, advanced biomechanics, iCAT 3D radiographic diagnosis, and high-detail finishing (microaesthetics). Outside the office he enjoys family time, soccer at the fields, wakeboarding, skiing, tennis, and travel."
             }
           ],
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/277600288_Team_of_medical_workers_in_hospital_Unity_concept.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/277600288_Team_of_medical_workers_in_hospital_Unity_concept.webp",
-            "alt": "Dr. Keri portrait",
+            "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/11/Dr.-Todd-Bovenizer.jpg",
+            "webp": "",
+            "alt": "Dr. Bovenizer meeting with a patient",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -710,7 +834,559 @@
       "is_dynamic": false,
       "large_title": false,
       "large_image": false,
-      "title_alt": true
+      "title_alt": true,
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "tabs",
+      "title": "Meet Dr. Chris Baker",
+      "paragraphs": [],
+      "image": {
+        "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/11/Dr.-Chris-Baker.jpg",
+        "webp": "",
+        "alt": "Dr. Chris Baker headshot",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "has_buttons": false,
+      "buttons": [],
+      "tabs": [
+        {
+          "header": "Professional",
+          "paragraphs": [
+            {
+              "text": "Dr. Christopher Baker grew up around orthodontics and brings a practiced, patient-centered style to care. He focuses on complex orthodontic mechanics and individualized treatment planning to deliver efficient, attractive results."
+            }
+          ],
+          "image": {
+            "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/11/Dr.-Chris-Baker.jpg",
+            "webp": "",
+            "alt": "Dr. Chris Baker consulting with a patient",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "Education & Credentials",
+          "paragraphs": [
+            {
+              "text": "Education: BS & MS in Biology and DDS from Indiana University; orthodontic specialty certificate and M.S. in Dentistry from Saint Louis University."
+            },
+            {
+              "text": "Credentials: Board certified by the American Board of Orthodontics; specialized training in Invisalign and the Damon System; active member of regional and national orthodontic associations."
+            }
+          ],
+          "image": {
+            "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/11/Dr.-Chris-Baker.jpg",
+            "webp": "",
+            "alt": "Dr. Baker in the office",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "Specialties & Interests",
+          "paragraphs": [
+            {
+              "text": "Dr. Baker’s clinical focus includes Damon braces and Invisalign care at a platinum level. He enjoys family time and travel, especially island trips with his wife and sons."
+            }
+          ],
+          "image": {
+            "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/11/Dr.-Chris-Baker.jpg",
+            "webp": "",
+            "alt": "Dr. Baker working with a patient",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "meet-the-doctor",
+        "component_padding": "full",
+        "component_margins": "half",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "reverse": true,
+      "is_dynamic": false,
+      "large_title": false,
+      "large_image": false,
+      "title_alt": true,
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "tabs",
+      "title": "Meet Dr. Tonya Spangler",
+      "paragraphs": [],
+      "image": {
+        "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/11/DrSpangler500x500.jpg",
+        "webp": "",
+        "alt": "Dr. Tonya Spangler headshot",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "has_buttons": false,
+      "buttons": [],
+      "tabs": [
+        {
+          "header": "Professional",
+          "paragraphs": [
+            {
+              "text": "Dr. Tonya Spangler brings an evidence-based approach to orthodontics, pairing clinical research with compassionate patient care to create predictable, comfortable treatment experiences."
+            }
+          ],
+          "image": {
+            "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/11/DrSpangler500x500.jpg",
+            "webp": "",
+            "alt": "Dr. Tonya Spangler with a patient",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "Education & Credentials",
+          "paragraphs": [
+            {
+              "text": "Education: BS from the University of Virginia; DDS and orthodontic residency with a Master’s from Virginia Commonwealth University. Dr. Spangler graduated top of her class and is a published researcher in orthodontic literature."
+            },
+            {
+              "text": "Credentials: Clinical specialty training in orthodontics and active involvement in research and academic endeavors."
+            }
+          ],
+          "image": {
+            "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/11/DrSpangler500x500.jpg",
+            "webp": "",
+            "alt": "Dr. Spangler smiling in the clinic",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "Specialties & Interests",
+          "paragraphs": [
+            {
+              "text": "Dr. Spangler specializes in comprehensive orthodontic care grounded in evidence-based practice. She enjoys trail biking, hiking, beach trips, discovering restaurants, travel, and adventures with her dog, Gilly."
+            }
+          ],
+          "image": {
+            "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/11/DrSpangler500x500.jpg",
+            "webp": "",
+            "alt": "Dr. Spangler outdoors",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "meet-the-doctor",
+        "component_padding": "full",
+        "component_margins": "half",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "reverse": false,
+      "is_dynamic": false,
+      "large_title": false,
+      "large_image": false,
+      "title_alt": true,
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "block_grid",
+      "title": "Meet the Team",
+      "items": [
+        {
+          "name": "Alex A.",
+          "position": "Scheduling Coordinator",
+          "bio": "Alex keeps our schedule running smoothly and helps families find convenient appointments.",
+          "image": {
+            "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/10/Alex-A.-Scheduling-Coordinator-500x500.jpg",
+            "webp": "",
+            "alt": "Alex A., Scheduling Coordinator",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "name": "Tracey",
+          "position": "Observation Coordinator",
+          "bio": "Tracey leads our observation program and guides parents through early orthodontic decisions.",
+          "image": {
+            "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/10/Tracey-Observation-Coordinator-500x500.jpg",
+            "webp": "",
+            "alt": "Tracey, Observation Coordinator",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "name": "Hannah",
+          "position": "Practice Coordinator",
+          "bio": "Hannah coordinates the day-to-day flow of the office and ensures a welcoming patient experience.",
+          "image": {
+            "src": "https://www.bovbakerortho.com/wp-content/uploads/2022/11/Hannah-500x500.png",
+            "webp": "",
+            "alt": "Hannah, Practice Coordinator",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "name": "Melissa H.",
+          "position": "Treatment Coordinator",
+          "bio": "Melissa helps patients understand treatment options and coordinates care from start to finish.",
+          "image": {
+            "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/10/Melissa-H.-Treatment-Coordinator-500x500.jpg",
+            "webp": "",
+            "alt": "Melissa H., Treatment Coordinator",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "name": "Mendy",
+          "position": "Marketing Coordinator",
+          "bio": "Mendy manages patient communications and community outreach.",
+          "image": {
+            "src": "https://www.bovbakerortho.com/wp-content/uploads/2019/07/staffheadshots2019-9-500x500.jpg",
+            "webp": "",
+            "alt": "Mendy, Marketing Coordinator",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "name": "Tobi",
+          "position": "Orthodontic Assistant",
+          "bio": "Tobi assists chairside and helps patients feel comfortable during appointments.",
+          "image": {
+            "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/10/Tobi-Clinical-Assistant-500x500.jpg",
+            "webp": "",
+            "alt": "Tobi, Orthodontic Assistant",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "name": "Enny",
+          "position": "Orthodontic Assistant",
+          "bio": "Enny supports clinical care and patient education.",
+          "image": {
+            "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/10/Enny-Orthodontic-Assistant-500x500.jpg",
+            "webp": "",
+            "alt": "Enny, Orthodontic Assistant",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "name": "Adrienne",
+          "position": "Orthodontic Assistant",
+          "bio": "Adrienne provides clinical support and gentle patient care.",
+          "image": {
+            "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/10/Adrienne-Orthodontic-Assistant-500x500.jpg",
+            "webp": "",
+            "alt": "Adrienne, Orthodontic Assistant",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "name": "Brittany",
+          "position": "Orthodontic Assistant",
+          "bio": "Brittany assists clinicians and helps patients with appliance care.",
+          "image": {
+            "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/10/Brittany-Orthodontic-Assistant-500x500.jpg",
+            "webp": "",
+            "alt": "Brittany, Orthodontic Assistant",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "name": "Colin",
+          "position": "Lab Coordinator",
+          "bio": "Colin manages in-house lab workflows and appliance quality control.",
+          "image": {
+            "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/10/Colin-Lab-Coordinator-500x500.jpg",
+            "webp": "",
+            "alt": "Colin, Lab Coordinator",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "name": "Debbie",
+          "position": "Orthodontic Assistant",
+          "bio": "Debbie provides dependable chairside support and patient comfort.",
+          "image": {
+            "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/10/Debbie-Orthodontic-Assistant-500x500.jpg",
+            "webp": "",
+            "alt": "Debbie, Orthodontic Assistant",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "name": "Crystal L.",
+          "position": "Orthodontic Assistant",
+          "bio": "Crystal supports treatment delivery and patient follow-up.",
+          "image": {
+            "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/10/Crystal-L.-Orthodontic-Assistant-500x500.jpg",
+            "webp": "",
+            "alt": "Crystal L., Orthodontic Assistant",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "name": "Maribel",
+          "position": "Orthodontic Assistant",
+          "bio": "Maribel assists clinical procedures and patient education.",
+          "image": {
+            "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/10/Maribel-Orthodontic-Assistant-500x500.jpg",
+            "webp": "",
+            "alt": "Maribel, Orthodontic Assistant",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "name": "Heidi",
+          "position": "Orthodontic Assistant",
+          "bio": "Heidi delivers calm, professional chairside care for patients of all ages.",
+          "image": {
+            "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/11/heidi-2-500x500.jpg",
+            "webp": "",
+            "alt": "Heidi, Orthodontic Assistant",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "name": "Ron",
+          "position": "Orthodontic Assistant",
+          "bio": "Ron supports a smooth clinical workflow and excellent patient care.",
+          "image": {
+            "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/11/Ron1-3-500x500.jpg",
+            "webp": "",
+            "alt": "Ron, Orthodontic Assistant",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "name": "Mindy",
+          "position": "Orthodontic Assistant",
+          "bio": "Mindy brings warmth and clinical skill to each patient interaction.",
+          "image": {
+            "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/11/MindyP-3-500x500.jpg",
+            "webp": "",
+            "alt": "Mindy, Orthodontic Assistant",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "name": "Joey",
+          "position": "Clinician (Orthodontic Assistant)",
+          "bio": "Joey works chairside to deliver efficient, comfortable treatment visits.",
+          "image": {
+            "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/10/Joey-Orthodontic-Assistant-500x500.jpg",
+            "webp": "",
+            "alt": "Joey, Orthodontic Assistant",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "name": "Jill",
+          "position": "Clinician (Orthodontic Assistant)",
+          "bio": "Jill supports treatment delivery and patient education with a friendly approach.",
+          "image": {
+            "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/10/Jill-Orthodontic-Assistant-500x500.jpg",
+            "webp": "",
+            "alt": "Jill, Orthodontic Assistant",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "",
+        "component_padding": "full",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "has_bio": true,
+      "large_title": false,
+      "center_title": false,
+      "background": "bg1",
+      "add_texture": false,
+      "linear_gradient": "",
+      "preserve_image": true
     },
     {
       "acf_fc_layout": "single_image_slider",
@@ -720,7 +1396,7 @@
         {
           "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/06/BoBaker3.26-54-1-scaled.jpg",
           "webp": "",
-          "alt": "Office interior / team image",
+          "alt": "Waiting area at Bovenizer & Baker Orthodontics",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -732,7 +1408,7 @@
         {
           "src": "https://www.bovbakerortho.com/wp-content/uploads/2023/11/SeptOctNovBoCC-57-scaled.jpg",
           "webp": "",
-          "alt": "Office / virtual consult promo image",
+          "alt": "Practice lobby and patient experience",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -742,9 +1418,9 @@
           "loading_mask": "#eef6f8"
         },
         {
-          "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/06/BoBaker3.26-60-scaled.jpeg",
+          "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/07/image-2-scaled.jpg",
           "webp": "",
-          "alt": "Team and clinic photo",
+          "alt": "Treatment room with patient chair",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -754,9 +1430,9 @@
           "loading_mask": "#eef6f8"
         },
         {
-          "src": "https://www.bovbakerortho.com/wp-content/uploads/2025/06/BoBaker3.26-24-scaled.jpg",
+          "src": "https://www.bovbakerortho.com/wp-content/uploads/2020/07/i-CAT_FLX_V_Hero-1__73603.1568926036.jpg",
           "webp": "",
-          "alt": "Office reception and team",
+          "alt": "iCAT 3D imaging equipment used for accurate diagnosis",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -780,19 +1456,19 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Community Matters",
+      "title": "Community Involvement",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "We live and breathe in the Cary, Apex, and Morrisville areas. Embedding our roots here and giving back to our local community is important to us. Learn more on our Community Matters page."
+          "text": "We love giving back to our community. We partner with schools, booster groups, and local organizations to donate time, resources, and orthodontic care. Each year the practice donates tens of thousands of dollars to local causes and has given away more than 30 free orthodontic treatments to families in need."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/79850954_Five_Laughing_Teens_Outdoors.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/79850954_Five_Laughing_Teens_Outdoors.webp",
-        "alt": "Community and outreach activities",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/165530282_Attentive_boy_pouring_new_plant.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/165530282_Attentive_boy_pouring_new_plant.webp",
+        "alt": "Bovenizer & Baker Orthodontics community event",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -829,7 +1505,7 @@
     },
     {
       "acf_fc_layout": "multi_use_banner",
-      "title": "Ready to Start Your Smile?",
+      "title": "Schedule Consultation",
       "content_block": "text_block",
       "text": "",
       "social_links": [],
@@ -837,8 +1513,8 @@
       "button": {
         "type": "nuxt",
         "style": "primary",
-        "label": "Schedule Your Consultation",
-        "aria_label": "Schedule your consultation",
+        "label": "Schedule Consultation",
+        "aria_label": "Schedule a consultation",
         "href": "",
         "path": "/contact",
         "hash": "#form",
@@ -858,9 +1534,9 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/48850703_Teenage_girl_happy_to_visit_the_dentist.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/48850703_Teenage_girl_happy_to_visit_the_dentist.webp",
-        "alt": "Schedule CTA image - office interior and team",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/99326519_Professional_dentist_office.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/99326519_Professional_dentist_office.webp",
+        "alt": "Schedule your consultation with Bovenizer & Baker Orthodontics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -880,14 +1556,14 @@
     {
       "seo": {
         "page_title": "About Us | Bovenizer & Baker Orthodontics",
-        "page_description": "Learn about Bovenizer & Baker Orthodontics in Cary: complimentary consultations, modern treatment options, and a community-first approach to care.",
-        "page_keywords": "Bovenizer & Baker, orthodontics, braces, Invisalign, Cary NC, orthodontist",
+        "page_description": "Learn about Bovenizer & Baker Orthodontics—our treatment philosophy, board-certified doctors, and community-focused care in Cary, NC.",
+        "page_keywords": "Orthodontics, Cary, Invisalign, Damon System, Bovenizer & Baker Orthodontics",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
             "title": "About Us | Bovenizer & Baker Orthodontics",
-            "description": "Learn about Bovenizer & Baker Orthodontics in Cary: complimentary consultations, modern treatment options, and a community-first approach to care.",
-            "image": "https://www.bovbakerortho.com/wp-content/uploads/2025/06/BoBaker3.26-54-1-scaled.jpg"
+            "description": "Learn about Bovenizer & Baker Orthodontics—our treatment philosophy, board-certified doctors, and community-focused care in Cary, NC.",
+            "image": "https://www.bovbakerortho.com/wp-content/uploads/2025/09/BNB_Doctors-Bo-and-Baker-1.jpg"
           }
         }
       }
@@ -899,23 +1575,23 @@
       "title": "Get Started",
       "text": "",
       "button": {
-        "type": "anchor",
+        "type": "nuxt",
         "style": "primary",
-        "label": "Schedule Your Free Consultation",
-        "aria_label": "schedule your free consultation",
-        "href": "https://www.bovbakerortho.com/schedule-a-free-consult/",
-        "path": "",
-        "hash": "",
-        "external": true,
+        "label": "Schedule Consultation",
+        "aria_label": "Schedule a consultation",
+        "href": "",
+        "path": "/contact",
+        "hash": "#form",
+        "external": false,
         "include_icon": false,
         "icon": "pencil",
-        "color": "black"
+        "color": "primary"
       },
       "media_type": "image",
       "image": {
         "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.jpg",
         "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.webp",
-        "alt": "Smiling family welcomed at orthodontic front desk",
+        "alt": "Bo & Baker team photo",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -934,24 +1610,24 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Your Free Consultation",
+      "title": "What to expect at your first visit",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "At your complimentary new patient appointment you'll meet our team, receive X-rays and photos, and have a full oral exam with one of our doctors. We’ll outline personalized treatment options and an estimated timeline so you can make an informed decision."
+          "text": "Your first visit is a complimentary consultation that includes X-rays, photos, and a thorough oral exam with Dr. Bo, Dr. Baker, or Dr. Keri. This is a relaxed, no-pressure appointment where we get to know you and the concerns you have about your smile."
         },
         {
           "has_heading": false,
           "heading": "",
-          "text": "We also provide a clear financial quote and verify insurance benefits during this visit, so you leave knowing your options and next steps for treatment."
+          "text": "After the exam we’ll outline a custom treatment plan, give an estimated timeline, verify insurance benefits, and review payment options. We’ll also walk you through an arrival checklist so your appointment goes smoothly."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/222135901_A_young_Dentist_treating_a_female_Patient_in_the_d.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/222135901_A_young_Dentist_treating_a_female_Patient_in_the_d.webp",
-        "alt": "Parent and child at reception desk of orthodontic office",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/100592748_Dentist_examining_a_patients_teeth_in_the_dentist.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/100592748_Dentist_examining_a_patients_teeth_in_the_dentist.webp",
+        "alt": "Virtual consult promo image",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -962,7 +1638,7 @@
         "image_selection_hints": null
       },
       "video": {
-        "type": "file",
+        "type": "embedded",
         "src": ""
       },
       "buttons": [],
@@ -991,10 +1667,10 @@
       "title": "Financing & Insurance",
       "paragraphs": [
         {
-          "text": "We know cost is a common question. At your free consultation we provide a detailed financial quote and verify your insurance benefits so you know what to expect."
+          "text": "We accept most major insurance plans and will file claims electronically to make using your benefits as easy as possible."
         },
         {
-          "text": "Flexible payment plans are available and our treatment coordinator will work with you to find an option that fits your budget."
+          "text": "Flexible payment plans are available and our treatment coordinator will help you find an option that fits your budget. New patient consultations are complimentary — call or text us at 919.234.5593 to get started."
         }
       ],
       "component_options": {
@@ -1011,8 +1687,103 @@
       "linear_gradient": ""
     },
     {
+      "acf_fc_layout": "image_text",
+      "title": "New patient forms",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Before your visit you can schedule online or complete intake paperwork so we’re ready when you arrive. If it’s more convenient, start with a free virtual consult by submitting photos for our doctors to review."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/306422676_Female_visitor_filling_out_medicine_documents.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/306422676_Female_visitor_filling_out_medicine_documents.webp",
+        "alt": "Bo & Baker photo at front desk",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [
+        {
+          "button": {
+            "type": "anchor",
+            "style": "secondary",
+            "label": "Schedule Your Free Consult",
+            "aria_label": "schedule your free consult",
+            "href": "https://www.bovbakerortho.com/schedule-a-free-consult/",
+            "path": "",
+            "hash": "",
+            "external": true,
+            "include_icon": false,
+            "icon": "phone",
+            "color": "black"
+          }
+        },
+        {
+          "button": {
+            "type": "anchor",
+            "style": "secondary",
+            "label": "Start a Virtual Consult",
+            "aria_label": "start a virtual consult",
+            "href": "https://www.orthoscreening.com/screening?code=9AMH2H&sid=759d052ee-7b047575e-6120fe5ef&step=0&token=a8c9403280a644b6817f64f6ea4aee4536206142aa79a881dfcc3f4450d0487b",
+            "path": "",
+            "hash": "",
+            "external": true,
+            "include_icon": false,
+            "icon": "tooth-outline",
+            "color": "black"
+          }
+        },
+        {
+          "button": {
+            "type": "anchor",
+            "style": "secondary",
+            "label": "Photo Tips Video",
+            "aria_label": "photo tips video",
+            "href": "https://www.youtube.com/watch?v=35kzFGn2DwQ",
+            "path": "",
+            "hash": "",
+            "external": true,
+            "include_icon": false,
+            "icon": "youtube",
+            "color": "black"
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": true,
+      "has_buttons": true,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "none"
+    },
+    {
       "acf_fc_layout": "multi_use_banner",
-      "title": "Ready to Start Your Smile?",
+      "title": "Schedule Consultation",
       "content_block": "text_block",
       "text": "",
       "social_links": [],
@@ -1020,8 +1791,8 @@
       "button": {
         "type": "nuxt",
         "style": "primary",
-        "label": "Schedule Your Consultation",
-        "aria_label": "Schedule your consultation",
+        "label": "Schedule Consultation",
+        "aria_label": "Schedule a consultation",
         "href": "",
         "path": "/contact",
         "hash": "#form",
@@ -1041,9 +1812,9 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/141987357_Handsome_male_patient_looking_at_his_beautiful_smi.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/141987357_Handsome_male_patient_looking_at_his_beautiful_smi.webp",
-        "alt": "Schedule CTA image - office interior and team",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/202645547_Portrait_of_dentist_standing_with_arms_crossed.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/202645547_Portrait_of_dentist_standing_with_arms_crossed.webp",
+        "alt": "Schedule your consultation with Bovenizer & Baker Orthodontics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1062,15 +1833,15 @@
     },
     {
       "seo": {
-        "page_title": "Get Started | Bovenizer and Baker Orthodontics",
-        "page_description": "Start your free consultation with Bovenizer and Baker Orthodontics. Learn what to expect at your first visit and schedule your complimentary consultation today.",
-        "page_keywords": "orthodontics, free consultation, new patient, financing, Bovenizer and Baker Orthodontics",
+        "page_title": "Get Started | Bovenizer & Baker Orthodontics",
+        "page_description": "Start your journey to a healthier, more confident smile with a free consultation. Schedule online, start a virtual consult, or call/text 919.234.5593.",
+        "page_keywords": "orthodontics, new patient, free consultation, virtual consult, Bovenizer & Baker, Cary NC",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "Get Started | Bovenizer and Baker Orthodontics",
-            "description": "Start your free consultation with Bovenizer and Baker Orthodontics. Learn what to expect at your first visit and schedule your complimentary consultation today.",
-            "image": "https://d25xczrsvvsqdg.cloudfront.net/bvweyes-blog-hero-2.jpg"
+            "title": "Get Started | Bovenizer & Baker Orthodontics",
+            "description": "Start your journey to a healthier, more confident smile with a free consultation. Schedule online or begin a virtual consult today.",
+            "image": "https://www.bovbakerortho.com/wp-content/uploads/2025/06/BoBaker3.26-31-1-scaled-e1749844572294.jpg"
           }
         }
       }
@@ -1079,16 +1850,16 @@
   "Treatments": [
     {
       "acf_fc_layout": "hero",
-      "title": "Orthodontic Treatments",
+      "title": "Treatments",
       "text": "",
       "button": {
         "type": "nuxt",
         "style": "primary",
-        "label": "",
-        "aria_label": "",
+        "label": "Schedule Consultation",
+        "aria_label": "Schedule a consultation",
         "href": "",
-        "path": "",
-        "hash": "",
+        "path": "/contact",
+        "hash": "#form",
         "external": false,
         "include_icon": false,
         "icon": "pencil",
@@ -1096,9 +1867,9 @@
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.webp",
-        "alt": "Smiling patients of all ages at Lakeshore Orthodontics",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/35296678_Young_female_patient_takes_a_dental_attendance.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/35296678_Young_female_patient_takes_a_dental_attendance.webp",
+        "alt": "Teen girl with braces smiling outdoors",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1119,210 +1890,24 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Early Treatment",
+      "title": "Invisalign<sup>®</sup>",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "We are conservative with start times and advocate letting the natural growing process run its course first. After a diagnostic exam we’ll advise if early (phase I) treatment is appropriate and explain what to expect for growth guidance and simpler corrections."
-        }
-      ],
-      "accordion": [],
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/45615865_Close_up_of_purple_dental_braces_and_toothbrush_is.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/45615865_Close_up_of_purple_dental_braces_and_toothbrush_is.webp",
-        "alt": "Young patient receiving early orthodontic intervention",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Initial Visit"
-        }
-      },
-      "video": {
-        "type": "embedded",
-        "src": ""
-      },
-      "buttons": [],
-      "component_options": {
-        "hash": "early-treatment",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "reverse": false,
-      "has_buttons": false,
-      "has_accordion": false,
-      "is_dynamic": false,
-      "use_video": false,
-      "large_image": false,
-      "has_background": false,
-      "background": "bg1",
-      "linear_gradient": "",
-      "add_texture": false,
-      "large_title": false,
-      "title_color": "text",
-      "title_underline_color": "none"
-    },
-    {
-      "acf_fc_layout": "image_text",
-      "title": "Adult Treatment",
-      "paragraphs": [
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "More adults are choosing orthodontics to improve function and confidence. We offer treatment options tailored to adult lifestyles, outline realistic timelines, and provide financial guidance during your complimentary consultation."
-        }
-      ],
-      "accordion": [],
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/75494341_Portrait_of_young_man_with_braces.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/75494341_Portrait_of_young_man_with_braces.webp",
-        "alt": "Adult patient receiving orthodontic treatment",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Adult"
-        }
-      },
-      "video": {
-        "type": "embedded",
-        "src": ""
-      },
-      "buttons": [],
-      "component_options": {
-        "hash": "adult-treatment",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "reverse": true,
-      "has_buttons": false,
-      "has_accordion": false,
-      "is_dynamic": false,
-      "use_video": false,
-      "large_image": false,
-      "has_background": false,
-      "background": "bg1",
-      "linear_gradient": "",
-      "add_texture": false,
-      "large_title": false,
-      "title_color": "text",
-      "title_underline_color": "none"
-    },
-    {
-      "acf_fc_layout": "image_text",
-      "title": "Damon Braces (Metal & Clear)",
-      "paragraphs": [
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "We offer Damon metal and Damon clear braces as durable, efficient options for comprehensive tooth movement. Your provider will recommend the bracket type best matched to your goals and lifestyle; treatment includes periodic adjustments and hygiene checks."
-        }
-      ],
-      "accordion": [
-        {
-          "header": "Damon Metal Braces",
-          "paragraphs": [
-            {
-              "text": "A reliable, efficient system for complex tooth movement and high-force corrections, Damon metal braces are designed for durability and effective results."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/135513837_Metal_brackets_-_tooth_aligners_on_a_model_jaw_whi.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/135513837_Metal_brackets_-_tooth_aligners_on_a_model_jaw_whi.webp",
-            "alt": "Dental Checkup with Braces",
-            "image_selection_hints": {
-              "context_category": "Braces"
-            }
-          }
-        },
-        {
-          "header": "Damon Clear Braces",
-          "paragraphs": [
-            {
-              "text": "Clear ceramic brackets blend with tooth color for a less noticeable look while still delivering effective alignment for many adult and teen cases."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/59969131_Young_black_woman_smiling_with_braces.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/59969131_Young_black_woman_smiling_with_braces.webp",
-            "alt": "Smiling Woman with Clear Aligner",
-            "image_selection_hints": {
-              "context_category": "Teen"
-            }
-          }
-        }
-      ],
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/81317876_Braces_Teeth_Female_Smile.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/81317876_Braces_Teeth_Female_Smile.webp",
-        "alt": "Two stylish smiling teens taking selfie with braces",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Braces"
-        }
-      },
-      "video": {
-        "type": "embedded",
-        "src": ""
-      },
-      "buttons": [],
-      "component_options": {
-        "hash": "damon-braces",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "reverse": false,
-      "has_buttons": false,
-      "has_accordion": true,
-      "is_dynamic": false,
-      "use_video": false,
-      "large_image": false,
-      "has_background": true,
-      "background": "bg1",
-      "linear_gradient": "",
-      "add_texture": false,
-      "large_title": false,
-      "title_color": "text",
-      "title_underline_color": "none"
-    },
-    {
-      "acf_fc_layout": "image_text",
-      "title": "Invisalign<sup>®</sup> & Clear Aligners",
-      "paragraphs": [
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Clear plastic aligners, including Invisalign<sup>®</sup>, are removable, discreet, and effective for many cases. During your consultation we’ll determine if aligners are appropriate and review expected wear-time, care, and compliance."
+          "text": "Invisalign<sup>®</sup> uses a series of clear, removable aligners to move teeth gently and predictably. Most cases — from crowding to gaps and mild bite issues — can be treated with these near-invisible trays."
         },
         {
           "has_heading": false,
           "heading": "",
-          "text": "Aligners let you brush, floss, and eat without bracket restrictions while achieving controlled tooth movement with advanced 3D planning."
+          "text": "We begin with a digital iTero scan to map your teeth, then deliver custom aligners you wear about 20 to 22 hours a day. Enjoy easier brushing, no brackets or wires, and a discreet path to a straighter smile."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/163056473_Glad_girl_using_orthodontic_device_for_adjusting_t.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/163056473_Glad_girl_using_orthodontic_device_for_adjusting_t.webp",
-        "alt": "Close-up of Invisalign aligners being placed on teeth",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/192367510_Invisible_dental_orthodontics.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/192367510_Invisible_dental_orthodontics.webp",
+        "alt": "Graphic of Invisalign clear aligners",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1345,6 +1930,62 @@
         "component_margins": "none",
         "hide_component": false
       },
+      "reverse": false,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "none"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Spark™ Aligners",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Spark™ aligners offer a thin, strong, and highly transparent option for patients seeking clear-aligner treatment. They can be a great alternative when you want discreet, removable trays."
+        },
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Like other clear systems, success depends on wear time and follow-up. We’ll scan, plan, and monitor progress so your Spark™ or similar aligner treatment stays on track."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/163056663_Happy_young_woman_holding_case_with_transparent_te.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/163056663_Happy_young_woman_holding_case_with_transparent_te.webp",
+        "alt": "Smiling patients of different ages",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Treatments Hero"
+        }
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "spark-aligners",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
       "reverse": true,
       "has_buttons": false,
       "has_accordion": false,
@@ -1361,24 +2002,24 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Orthognathic (Jaw) Surgery",
+      "title": "Damon System",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "For complex jaw discrepancies we coordinate closely with oral and maxillofacial or ENT surgeons to plan combined surgical and orthodontic care. Pre-surgical orthodontics aligns the teeth, surgical teams adjust the jaws for function and balance, and we manage post-surgical finishing and retention."
+          "text": "The Damon System uses self-ligating brackets and shape-memory wires to move teeth efficiently and comfortably. Our team is a certified Damon provider and incorporates these techniques when they fit a patient’s goals."
         },
         {
           "has_heading": false,
           "heading": "",
-          "text": "Our team provides detailed planning, 3D imaging for surgical simulation, and step-by-step support through recovery so you understand timelines, risks, and expected improvements in bite and facial harmony."
+          "text": "Damon treatment often means fewer appointments, improved hygiene with no elastic ties, and options that suit kids, teens, and adults."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/393180333_Dental_3d_scanner_monitor_in_the_dentists_office_S.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/393180333_Dental_3d_scanner_monitor_in_the_dentists_office_S.webp",
-        "alt": "Orthodontic patient receiving orthognathic surgical consultation",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/196907428.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/196907428.webp",
+        "alt": "Teen smiling with Damon Clear braces",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1387,7 +2028,7 @@
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
-          "context_category": "Surgery"
+          "context_category": "Braces"
         }
       },
       "video": {
@@ -1396,12 +2037,68 @@
       },
       "buttons": [],
       "component_options": {
-        "hash": "orthognathic-surgery",
+        "hash": "damon-system",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
       },
       "reverse": false,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "none"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Damon Metal Braces",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Damon Metal Braces combine durability with a low-profile design. The self-ligating brackets reduce friction and make hygiene easier compared with older elastic-tied systems."
+        },
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "These braces are a reliable choice for more complex movements and are often selected when predictable, efficient mechanics are needed."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/48486569_teeth_with_braces.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/48486569_teeth_with_braces.webp",
+        "alt": "Model of teeth showing Damon Metal braces",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Braces"
+        }
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "damon-metal",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": true,
       "has_buttons": false,
       "has_accordion": false,
       "is_dynamic": false,
@@ -1417,24 +2114,85 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Retainers & Post-treatment Care",
+      "title": "Damon Clear Braces",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Retainers keep your smile in place after active treatment. We provide clear retainers and removable or bonded options, and we explain a retention plan designed for long-term stability."
+          "text": "Damon Clear Braces provide a discreet ceramic option that blends with your teeth while maintaining the Damon System’s efficient mechanics."
         },
         {
           "has_heading": false,
           "heading": "",
-          "text": "At completion we’ll review wear schedules, care tips, and what to do if a retainer is lost or damaged so your results last for years."
+          "text": "Clear brackets require mindful care to avoid staining, but they offer an excellent balance of discretion and proven orthodontic control."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024714_Beautiful_Patient_Holding_Clear_Orthodontic_Aligne.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024714_Beautiful_Patient_Holding_Clear_Orthodontic_Aligne.webp",
-        "alt": "Beautiful young Asian woman smiling and holding orthodontic retainer",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/81317876_Braces_Teeth_Female_Smile.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/81317876_Braces_Teeth_Female_Smile.webp",
+        "alt": "Close-up of a clear Damon braces bracket holding an archwire",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Braces"
+        }
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "damon-clear",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": false,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "none"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Retainers and Aftercare",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Retention is essential to protect the investment you make in your smile. We offer bonded and removable retainers, and we’ll recommend the right option based on your treatment."
+        },
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Care tips include gentle daily cleaning, avoiding hot environments, and using cases to store removable retainers. We also offer a Retainer Guarantee Program for long-term protection."
+        },
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "To replace or maintain retainers, call or text 919.234.5593 or schedule an appointment online at https://www.bovbakerortho.com/schedule-a-free-consult/. You can also visit our contact page at https://www.bovbakerortho.com/contact/ for questions."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/62056177_Hand_holding_a_translucent_upper_essix_retainer.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/62056177_Hand_holding_a_translucent_upper_essix_retainer.webp",
+        "alt": "Clear removable retainer in a hand",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1473,68 +2231,24 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Advanced Technology",
+      "title": "Early Treatment",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "We use modern digital tools to improve accuracy, comfort, and speed of care across diagnosis, treatment planning, and appliance fabrication."
-        }
-      ],
-      "accordion": [
-        {
-          "header": "Digital 3D Scanning (iTero)",
-          "paragraphs": [
-            {
-              "text": "No more gross putty impressions. Our iTero scanner captures comfortable, fast 3D images for precise planning and aligner design."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/136172958_Girl_taking_digital_3D_panoramic_dental_x-ray.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/136172958_Girl_taking_digital_3D_panoramic_dental_x-ray.webp",
-            "alt": "iTero digital scanner in use during orthodontic consultation",
-            "image_selection_hints": {
-              "context_category": "Experienced"
-            }
-          }
+          "text": "A check by age seven lets us spot growth issues early and intervene when beneficial. Phase 1 treatment can guide jaw development and reduce the need for more invasive care later."
         },
         {
-          "header": "3D Printing",
-          "paragraphs": [
-            {
-              "text": "We utilize in-house 3D printing to fabricate appliances and retainers for faster turnaround and consistent quality."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/167612220_Young_woman_patient_standing_in_x-ray_machine.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/167612220_Young_woman_patient_standing_in_x-ray_machine.webp",
-            "alt": "3D treatment planning software showing orthodontic simulation",
-            "image_selection_hints": {
-              "context_category": "Better Care"
-            }
-          }
-        },
-        {
-          "header": "iCAT 3D X-ray / Cone Beam",
-          "paragraphs": [
-            {
-              "text": "Low-dose, high-detail 3D imaging supports complex diagnostics and surgical planning with clear visualization of jaws and airway structures."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/271991695_Young_woman_ready_to_computer_3d_tomography_of_tee.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/271991695_Young_woman_ready_to_computer_3d_tomography_of_tee.webp",
-            "alt": "Digital X-ray equipment showing detailed orthodontic imaging",
-            "image_selection_hints": {
-              "context_category": "Technology"
-            }
-          }
+          "has_heading": false,
+          "heading": "",
+          "text": "Tools like expanders or partial braces help create room for permanent teeth and address bite problems while the child is still growing."
         }
       ],
+      "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/241877737_Dentist_with_young_woman_assistant_working_with_co.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/241877737_Dentist_with_young_woman_assistant_working_with_co.webp",
-        "alt": "Modern dentist office interior with advanced technology",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.webp",
+        "alt": "Child in dental chair smiling after orthodontic check",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1543,7 +2257,7 @@
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
-          "context_category": "Experienced"
+          "context_category": "Initial Visit"
         }
       },
       "video": {
@@ -1552,14 +2266,70 @@
       },
       "buttons": [],
       "component_options": {
-        "hash": "technology",
+        "hash": "early-treatment",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
       },
       "reverse": false,
       "has_buttons": false,
-      "has_accordion": true,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "none"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Palatal Expanders",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Palatal expanders create space in the upper jaw, often preventing extractions and improving bite relationships. They’re commonly used in growing patients to guide development."
+        },
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Your orthodontist will explain the device, expected timeline, and care steps so you and your child are comfortable through the process."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/45615865_Close_up_of_purple_dental_braces_and_toothbrush_is.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/45615865_Close_up_of_purple_dental_braces_and_toothbrush_is.webp",
+        "alt": "Model of teeth and orthodontic appliance",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Surgery"
+        }
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "palatal-expanders",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": true,
+      "has_buttons": false,
+      "has_accordion": false,
       "is_dynamic": false,
       "use_video": false,
       "large_image": false,
@@ -1573,7 +2343,7 @@
     },
     {
       "acf_fc_layout": "multi_use_banner",
-      "title": "Ready to Start Your Smile?",
+      "title": "Schedule Consultation",
       "content_block": "text_block",
       "text": "",
       "social_links": [],
@@ -1581,8 +2351,8 @@
       "button": {
         "type": "nuxt",
         "style": "primary",
-        "label": "Schedule Your Consultation",
-        "aria_label": "Schedule your consultation",
+        "label": "Schedule Consultation",
+        "aria_label": "Schedule a consultation",
         "href": "",
         "path": "/contact",
         "hash": "#form",
@@ -1602,9 +2372,9 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/202645547_Portrait_of_dentist_standing_with_arms_crossed.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/202645547_Portrait_of_dentist_standing_with_arms_crossed.webp",
-        "alt": "Schedule CTA image - office interior and team",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/347651414_Modern_family_visiting_doctor_in_hospital.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/347651414_Modern_family_visiting_doctor_in_hospital.webp",
+        "alt": "Schedule your consultation with Bovenizer & Baker Orthodontics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1624,14 +2394,14 @@
     {
       "seo": {
         "page_title": "Treatments | Bovenizer & Baker Orthodontics",
-        "page_description": "Explore orthodontic treatments at Bovenizer & Baker Orthodontics, including Damon braces, Invisalign®, early care, retainers, and advanced digital diagnostics.",
-        "page_keywords": "orthodontic treatments, Damon braces, Invisalign, retainers, early treatment, jaw surgery",
+        "page_description": "Explore orthodontic options at Bovenizer & Baker Orthodontics, including Invisalign®, Damon braces, retainers, early treatment, and more.",
+        "page_keywords": "orthodontic treatments, Invisalign, Damon braces, retainers, early orthodontics, clear aligners",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
             "title": "Treatments | Bovenizer & Baker Orthodontics",
-            "description": "Explore orthodontic treatments at Bovenizer & Baker Orthodontics, including Damon braces, Invisalign®, early care, retainers, and advanced digital diagnostics.",
-            "image": "https://d2jdm9a19iwpm4.cloudfront.net/treatments/treatments-hero.jpg"
+            "description": "Explore orthodontic options at Bovenizer & Baker Orthodontics, including Invisalign®, Damon braces, retainers, early treatment, and more.",
+            "image": "https://www.bovbakerortho.com/wp-content/uploads/2020/07/BnB-Web-5532.jpg"
           }
         }
       }
@@ -1643,23 +2413,23 @@
       "title": "Contact Us",
       "text": "",
       "button": {
-        "type": "anchor",
+        "type": "nuxt",
         "style": "primary",
-        "label": "Schedule a Free Consultation",
-        "aria_label": "Schedule a Free Consultation with Bovenizer & Baker Orthodontics",
-        "href": "https://www.bovbakerortho.com/schedule-a-free-consult/",
-        "path": "",
-        "hash": "",
-        "external": true,
+        "label": "Schedule Consultation",
+        "aria_label": "Schedule a consultation",
+        "href": "",
+        "path": "/contact",
+        "hash": "#form",
+        "external": false,
         "include_icon": false,
         "icon": "pencil",
         "color": "primary"
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/148297048_Young_people_working_in_modern_office_discussing_i.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/148297048_Young_people_working_in_modern_office_discussing_i.webp",
-        "alt": "Bovenizer & Baker Orthodontics team at reception smiling",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/600329009_Man_making_an_appointment_with_medical_staffs_at_r.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/600329009_Man_making_an_appointment_with_medical_staffs_at_r.webp",
+        "alt": "Bovenizer & Baker Orthodontics reception area with smiling team at the front desk",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1667,7 +2437,9 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": null
+        "image_selection_hints": {
+          "context_category": "Contact Hero"
+        }
       },
       "video": {
         "src": "",
@@ -1678,7 +2450,7 @@
     },
     {
       "acf_fc_layout": "map",
-      "title": "Location & Directions",
+      "title": "How to Reach Us",
       "component_options": {
         "hash": "",
         "component_padding": "half",
@@ -1705,14 +2477,14 @@
     {
       "seo": {
         "page_title": "Contact Bovenizer & Baker Orthodontics | Cary Orthodontist",
-        "page_description": "Contact Bovenizer & Baker Orthodontics in Cary for a free consultation. Friendly, community-focused orthodontic care for kids and adults.",
-        "page_keywords": "Bovenizer & Baker Orthodontics contact, Cary orthodontist, free consultation, braces, clear aligners",
+        "page_description": "Contact Bovenizer & Baker Orthodontics in Cary, NC. Call 919-234-5593 or schedule a free consultation online. Office hours and directions available.",
+        "page_keywords": "Bovenizer & Baker Orthodontics contact, Cary orthodontist, orthodontic appointment, schedule consultation",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
             "title": "Contact Bovenizer & Baker Orthodontics | Cary Orthodontist",
-            "description": "Contact Bovenizer & Baker Orthodontics in Cary for a free consultation. Friendly, community-focused orthodontic care for kids and adults.",
-            "image": "https://d25xczrsvvsqdg.cloudfront.net/chathamorthonc-treatments-hero.jpg"
+            "description": "Contact Bovenizer & Baker Orthodontics in Cary, NC. Call 919-234-5593 or schedule a free consultation online. Office hours and directions available.",
+            "image": "https://www.bovbakerortho.com/wp-content/uploads/2025/06/BoBaker3.26-54-1-scaled.jpg"
           }
         }
       }
@@ -1721,26 +2493,26 @@
   "FAQ": [
     {
       "acf_fc_layout": "hero",
-      "title": "Frequently Asked Questions",
+      "title": "FAQ",
       "text": "",
       "button": {
-        "type": "custom",
+        "type": "nuxt",
         "style": "primary",
-        "label": "",
-        "aria_label": "",
+        "label": "Schedule Consultation",
+        "aria_label": "Schedule a consultation",
         "href": "",
-        "path": "",
-        "hash": "",
+        "path": "/contact",
+        "hash": "#form",
         "external": false,
         "include_icon": false,
         "icon": "pencil",
-        "color": "black"
+        "color": "primary"
       },
       "media_type": "image",
       "image": {
         "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/479238532_Man_Dental_Teeth_Question_Mark.jpg",
         "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/479238532_Man_Dental_Teeth_Question_Mark.webp",
-        "alt": "Orthodontic team smiling together in a bright, modern clinic",
+        "alt": "Orthodontic team smiling together in a bright, welcoming office",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1749,7 +2521,7 @@
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
-          "context_category": "Treatments Hero"
+          "context_category": "FAQ Hero"
         }
       },
       "video": {
@@ -1761,57 +2533,28 @@
     },
     {
       "acf_fc_layout": "accordion",
-      "title": "FAQ",
+      "title": "Common Questions",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Find quick answers to our most common patient questions about treatment options, timing, insurance/fees, appointments, and virtual consults. If you don’t see your question here, contact our front desk or schedule a free consult."
+          "text": "Don't hesitate to reach out to Dr. Bovenizer, Dr. Baker, or any member of our caring staff with questions about treatment, scheduling, or payments."
         }
       ],
       "accordion": [
         {
-          "header": "Do I need a referral to see an orthodontist?",
+          "header": "When will my braces come off?",
           "paragraphs": [
             {
-              "text": "No — most patients can schedule a consultation without a referral. For details about when to see an orthodontist and what to expect at your first visit, see our blog and patient resources: https://www.bovbakerortho.com/blog/do-i-need-a-referral-to-see-an-orthodontist/"
+              "text": "Even if your treatment appears close to finished, we only remove braces when you and the doctor are completely satisfied with the alignment; taking them off too early can leave undesirable results and sometimes a few additional months are needed to finish treatment properly."
             }
           ],
           "has_media": false,
           "media_type": "image",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/285911421_Client_of_private_dentistry_smiling_while_singing.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/285911421_Client_of_private_dentistry_smiling_while_singing.webp",
-            "alt": "Orthodontic team portrait, friendly staff ready to greet patients",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Experienced"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "Braces vs. Invisalign<sup>®</sup> — which is right for me?",
-          "paragraphs": [
-            {
-              "text": "Both are excellent options; the best choice depends on your bite, alignment goals, and lifestyle. Our doctors will review options during your complimentary consult and recommend a personalized plan. Learn more: https://www.bovbakerortho.com/blog/braces-vs-invisalign/"
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/573131138_Woman_wave_or_video_call_on_laptop_conference_lawy.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/573131138_Woman_wave_or_video_call_on_laptop_conference_lawy.webp",
-            "alt": "Close-up of clear aligners and orthodontic braces for comparison",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/191531294_Medical_dentist_team_in_dental_office_discuss_abou.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/191531294_Medical_dentist_team_in_dental_office_discuss_abou.webp",
+            "alt": "Happy family portrait in orthodontic office",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -1824,23 +2567,23 @@
             }
           },
           "video": {
-            "type": "embedded",
+            "type": "file",
             "src": ""
           }
         },
         {
-          "header": "What can I eat with Invisalign<sup>®</sup> or braces?",
+          "header": "When will I get rubberbands and what do they do?",
           "paragraphs": [
             {
-              "text": "Invisalign<sup>®</sup> aligners are removable so you can eat normally, but you should wear aligners 20–22 hours per day and maintain good oral hygiene. With braces, avoid very hard or sticky foods to prevent damage. See our patient guidance articles for detailed lists and tips."
+              "text": "Rubberbands are used to adjust your bite and jaw position; whether you need them depends on your specific jaw alignment and the treatment plan the doctor prescribes."
             }
           ],
           "has_media": false,
           "media_type": "image",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/255770837_Young_lady_discussing_her_dental_problems_with_den.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/255770837_Young_lady_discussing_her_dental_problems_with_den.webp",
-            "alt": "Patient smiling after treatment, enjoying daily life with new smile",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/285911421_Client_of_private_dentistry_smiling_while_singing.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/285911421_Client_of_private_dentistry_smiling_while_singing.webp",
+            "alt": "Orthodontic consultation in a bright clinic",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -1849,27 +2592,201 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "All Ages"
+              "context_category": "Initial Visit"
             }
           },
           "video": {
-            "type": "embedded",
+            "type": "file",
             "src": ""
           }
         },
         {
-          "header": "How much will treatment cost and do you accept insurance?",
+          "header": "Is a referral from my family dentist required for a consultation?",
           "paragraphs": [
             {
-              "text": "Cost varies with treatment complexity. At your complimentary new‑patient appointment you’ll receive a treatment plan and a detailed financial quote, including insurance verification. To schedule your visit, use our booking page: https://www.bovbakerortho.com/schedule-a-free-consult/"
+              "text": "No referral is required. While many patients are referred by their dentist, most of our new patients come from family and friends or contact us directly."
             }
           ],
           "has_media": false,
           "media_type": "image",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/480396465_Portrait_Of_Happy_Arab_Man_Sitting_At_Dentist_Chai.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/480396465_Portrait_Of_Happy_Arab_Man_Sitting_At_Dentist_Chai.webp",
-            "alt": "Financial and insurance information document image",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/502706059_Man_talking_to_professional_receptionist_in_clinic.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/502706059_Man_talking_to_professional_receptionist_in_clinic.webp",
+            "alt": "Collaborative team moment in the office",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "Experienced"
+            }
+          },
+          "video": {
+            "type": "file",
+            "src": ""
+          }
+        },
+        {
+          "header": "How do I schedule an initial consultation?",
+          "paragraphs": [
+            {
+              "text": "Call or text us at 919-234-5593, email frontdesk@bovbakerortho.com, or use our contact page at https://www.bovbakerortho.com/contact/ and our scheduling coordinator will help find a convenient time."
+            }
+          ],
+          "has_media": false,
+          "media_type": "image",
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/652764051_Medical_staff_and_nurse_Receptionist_talking_to_co.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/652764051_Medical_staff_and_nurse_Receptionist_talking_to_co.webp",
+            "alt": "Patient checking in at orthodontic reception",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "Contact Hero"
+            }
+          },
+          "video": {
+            "type": "file",
+            "src": ""
+          }
+        },
+        {
+          "header": "Is it too late to get braces as an adult?",
+          "paragraphs": [
+            {
+              "text": "It’s never too late. Many adults pursue orthodontic treatment for improved health, function, and confidence; roughly 30% of our patients are over age 21 and we tailor care to each adult's needs."
+            }
+          ],
+          "has_media": false,
+          "media_type": "image",
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/222135901_A_young_Dentist_treating_a_female_Patient_in_the_d.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/222135901_A_young_Dentist_treating_a_female_Patient_in_the_d.webp",
+            "alt": "Adult patient smiling after treatment",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "Adult"
+            }
+          },
+          "video": {
+            "type": "file",
+            "src": ""
+          }
+        },
+        {
+          "header": "What will I learn from the initial consultation?",
+          "paragraphs": [
+            {
+              "text": "During the consultation the doctor will determine whether there’s an orthodontic concern, explain what must be done to correct it, give an estimated treatment timeline, review costs and payment options, and let you know if any permanent teeth would need extraction."
+            }
+          ],
+          "has_media": false,
+          "media_type": "image",
+          "image": {
+            "src": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-about-hero.jpg",
+            "webp": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-about-hero.webp",
+            "alt": "Doctor explaining treatment plan to patient",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "Initial Visit"
+            }
+          },
+          "video": {
+            "type": "file",
+            "src": ""
+          }
+        },
+        {
+          "header": "How long will I have to wear braces?",
+          "paragraphs": [
+            {
+              "text": "Treatment length depends on individual needs; minor corrections may take 4–6 months, while more involved cases can take 20–26 months, and we’ll provide a personalized timeline at your consultation."
+            }
+          ],
+          "has_media": false,
+          "media_type": "image",
+          "image": {
+            "src": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-about-community.jpg",
+            "webp": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-about-community.webp",
+            "alt": "Orthodontic team collaborating on patient care",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "Treatments Hero"
+            }
+          },
+          "video": {
+            "type": "file",
+            "src": ""
+          }
+        },
+        {
+          "header": "Do braces hurt?",
+          "paragraphs": [
+            {
+              "text": "Braces don’t usually cause pain, but they feel foreign at first and take about a week to get used to; teeth may be sore for a few days after adjustments and over-the-counter pain relievers like acetaminophen can help."
+            }
+          ],
+          "has_media": false,
+          "media_type": "image",
+          "image": {
+            "src": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-faq-hero.jpg",
+            "webp": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-faq-hero.webp",
+            "alt": "Patient receiving comfortable care in clinic",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "Gentle"
+            }
+          },
+          "video": {
+            "type": "file",
+            "src": ""
+          }
+        },
+        {
+          "header": "How much will braces cost and are financing options available?",
+          "paragraphs": [
+            {
+              "text": "Fees depend on the complexity of the correction; we’ll explain exact costs and available financing during the consultation, help you maximize insurance benefits, and file claims on your behalf. See our cost and financing information at https://www.bovbakerortho.com/cost-of-treatment/."
+            }
+          ],
+          "has_media": false,
+          "media_type": "image",
+          "image": {
+            "src": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-home-spotlight.jpg",
+            "webp": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-home-spotlight.webp",
+            "alt": "Financial consultation and friendly patient support",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -1882,23 +2799,23 @@
             }
           },
           "video": {
-            "type": "embedded",
+            "type": "file",
             "src": ""
           }
         },
         {
-          "header": "What happens right after braces are removed? Do I need a retainer?",
+          "header": "How often will I have appointments?",
           "paragraphs": [
             {
-              "text": "Yes — retainers are typically required to keep teeth in their new positions. We’ll discuss retainer options, wear schedules, and aftercare at the time of removal so you leave with a clear plan to protect your smile."
+              "text": "Appointment frequency varies by case, but most patients are seen every six to ten weeks for routine adjustments and progress checks."
             }
           ],
           "has_media": false,
           "media_type": "image",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/170782920_Business_man_thinking_contemplating_a_solution.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/170782920_Business_man_thinking_contemplating_a_solution.webp",
-            "alt": "Smiling patient being fitted for a retainer by an orthodontic team member",
+            "src": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-faq-hero.jpg",
+            "webp": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-faq-hero.webp",
+            "alt": "Patient charting and scheduling in orthodontic clinic",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -1907,69 +2824,11 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "Initial Visit"
+              "context_category": "FAQ Hero"
             }
           },
           "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "How do I submit a Virtual Consult?",
-          "paragraphs": [
-            {
-              "text": "We offer a virtual consult option: take a few photos and submit them for a remote review so our doctors can give initial feedback. Details and submission steps are provided on the practice’s virtual consult resource pages."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/280865013_Portrait_of_smiling_Asian_girl_sitting_in_dental_c.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/280865013_Portrait_of_smiling_Asian_girl_sitting_in_dental_c.webp",
-            "alt": "Patient preparing photos for a virtual orthodontic consult",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Initial Visit"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "What happens if a bracket or wire becomes loose?",
-          "paragraphs": [
-            {
-              "text": "Minor issues are common and can often be handled with a quick in‑office visit. Call the front desk at 919-234-5593 for guidance and to schedule a repair if needed. Our blog also covers common bracket and wire troubleshooting tips."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/343321244_Young_beautiful_brunette_woman_holding_dental_alig.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/343321244_Young_beautiful_brunette_woman_holding_dental_alig.webp",
-            "alt": "Orthodontic team assisting a patient with minor braces adjustment",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Emergency"
-            }
-          },
-          "video": {
-            "type": "embedded",
+            "type": "file",
             "src": ""
           }
         }
@@ -1982,16 +2841,66 @@
       }
     },
     {
+      "acf_fc_layout": "multi_use_banner",
+      "title": "Schedule Consultation",
+      "content_block": "text_block",
+      "text": "",
+      "social_links": [],
+      "email": "",
+      "button": {
+        "type": "nuxt",
+        "style": "primary",
+        "label": "Schedule Consultation",
+        "aria_label": "Schedule a consultation",
+        "href": "",
+        "path": "/contact",
+        "hash": "#form",
+        "external": false,
+        "include_icon": false,
+        "icon": "",
+        "color": ""
+      },
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "background_type": "has_background",
+      "background": "bg2",
+      "add_texture": false,
+      "linear_gradient": "",
+      "image": {
+        "src": "https://d25xczrsvvsqdg.cloudfront.net/droubre-home-social-banner.jpg",
+        "webp": "https://d25xczrsvvsqdg.cloudfront.net/droubre-home-social-banner.webp",
+        "alt": "Schedule your consultation with Bovenizer & Baker Orthodontics",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "New Patients Hero"
+        }
+      },
+      "reversed": false,
+      "centered": true,
+      "large_title": true,
+      "text_color": "primary"
+    },
+    {
       "seo": {
-        "page_title": "FAQ | Bov Baker Orthodontics",
-        "page_description": "Find quick answers to common patient questions about orthodontic treatments, scheduling, insurance, and virtual consults at Bov Baker Orthodontics.",
-        "page_keywords": "orthodontics, braces, Invisalign, FAQ, virtual consult, Bov Baker Orthodontics",
+        "page_title": "FAQ | Bovenizer & Baker Orthodontics",
+        "page_description": "Answers to common questions about braces, Invisalign, scheduling, and payment options at Bovenizer & Baker Orthodontics.",
+        "page_keywords": "orthodontics, braces, Invisalign, FAQ, Bovenizer & Baker Orthodontics",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "FAQ | Bov Baker Orthodontics",
-            "description": "Find quick answers to common patient questions about orthodontic treatments, scheduling, insurance, and virtual consults at Bov Baker Orthodontics.",
-            "image": "https://www.bovbakerortho.com/wp-content/uploads/2022/09/SeptOctNovBoCC-30-scaled-1.webp"
+            "title": "FAQ | Bovenizer & Baker Orthodontics",
+            "description": "Answers to common questions about braces, Invisalign, scheduling, and payment options at Bovenizer & Baker Orthodontics.",
+            "image": ""
           }
         }
       }
