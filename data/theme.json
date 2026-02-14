@@ -4,23 +4,6 @@
       {
         "label": "primary",
         "color": {
-          "red": 11,
-          "green": 39,
-          "blue": 63,
-          "alpha": 1
-        },
-        "hex": "#0b273f",
-        "accessibility": {
-          "luminance": 0.02,
-          "luminancePercent": "2%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 15.26,
-          "wcagRating": "AAA"
-        }
-      },
-      {
-        "label": "secondary",
-        "color": {
           "red": 200,
           "green": 150,
           "blue": 82,
@@ -36,7 +19,41 @@
         }
       },
       {
+        "label": "secondary",
+        "color": {
+          "red": 168,
+          "green": 120,
+          "blue": 56,
+          "alpha": 1
+        },
+        "hex": "#a87838",
+        "accessibility": {
+          "luminance": 0.22,
+          "luminancePercent": "22%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 5.41,
+          "wcagRating": "AA"
+        }
+      },
+      {
         "label": "accent",
+        "color": {
+          "red": 130,
+          "green": 166,
+          "blue": 173,
+          "alpha": 1
+        },
+        "hex": "#82a6ad",
+        "accessibility": {
+          "luminance": 0.35,
+          "luminancePercent": "35%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 8.01,
+          "wcagRating": "AAA"
+        }
+      },
+      {
+        "label": "text",
         "color": {
           "red": 69,
           "green": 69,
@@ -49,23 +66,6 @@
           "luminancePercent": "6%",
           "recommendedTextColor": "#ffffff",
           "contrastRatio": 9.59,
-          "wcagRating": "AAA"
-        }
-      },
-      {
-        "label": "text",
-        "color": {
-          "red": 10,
-          "green": 10,
-          "blue": 10,
-          "alpha": 1
-        },
-        "hex": "#0a0a0a",
-        "accessibility": {
-          "luminance": 0,
-          "luminancePercent": "0%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 19.8,
           "wcagRating": "AAA"
         }
       },
@@ -89,59 +89,59 @@
       {
         "label": "bg-2",
         "color": {
-          "red": 255,
-          "green": 255,
-          "blue": 255,
+          "red": 245,
+          "green": 245,
+          "blue": 245,
           "alpha": 1
         },
-        "hex": "#ffffff",
+        "hex": "#f5f5f5",
         "accessibility": {
-          "luminance": 1,
-          "luminancePercent": "100%",
+          "luminance": 0.91,
+          "luminancePercent": "91%",
           "recommendedTextColor": "#000000",
-          "contrastRatio": 21,
+          "contrastRatio": 19.26,
           "wcagRating": "AAA"
         }
       },
       {
         "label": "topbar-light",
         "color": {
-          "red": 255,
-          "green": 255,
-          "blue": 255,
+          "red": 242,
+          "green": 242,
+          "blue": 242,
           "alpha": 1
         },
-        "hex": "#ffffff",
+        "hex": "#f2f2f2",
         "accessibility": {
-          "luminance": 1,
-          "luminancePercent": "100%",
+          "luminance": 0.89,
+          "luminancePercent": "89%",
           "recommendedTextColor": "#000000",
-          "contrastRatio": 21,
+          "contrastRatio": 18.76,
           "wcagRating": "AAA"
         }
       },
       {
         "label": "topbar-dark",
         "color": {
-          "red": 11,
-          "green": 39,
-          "blue": 63,
+          "red": 168,
+          "green": 120,
+          "blue": 56,
           "alpha": 1
         },
-        "hex": "#0b273f",
+        "hex": "#a87838",
         "accessibility": {
-          "luminance": 0.02,
-          "luminancePercent": "2%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 15.26,
-          "wcagRating": "AAA"
+          "luminance": 0.22,
+          "luminancePercent": "22%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 5.41,
+          "wcagRating": "AA"
         }
       }
     ],
     "typography": [
       {
         "label": "font",
-        "font": "'Open Sans', helvetica, arial, sans-serif"
+        "font": "'sans-serif', helvetica, arial, sans-serif"
       },
       {
         "label": "font-title",
